@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>it.bcc.sinergia</groupId>
   <artifactId>sinergia-java-batch-archetype</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <name>Sinergia Archetype for java batch</name>
   <url>http://www.sinergia.bcc.it</url>
 </project>
